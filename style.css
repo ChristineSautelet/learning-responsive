@@ -157,7 +157,7 @@ nav a:hover
     background: url('images/fond_degraderouge.png') repeat-x;
     border: 1px solid #760001;
     border-radius: 5px;
-    font-size: 1.2em;
+    font-size: 0.9em;
     text-align: center;
     padding: 3px 8px 0px 8px;
     color: white;
@@ -328,5 +328,8 @@ footer h1
     #mes_amis
     {
         width: 31%;
+    }
+    .bouton_rouge{
+        font-size: 1.2em;
     }
 }
